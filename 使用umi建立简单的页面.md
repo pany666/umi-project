@@ -12,7 +12,7 @@ umi需要运行在JS环境下，所以需要在电脑上下载安装Node，检�
 
 ### 2.安装umi
 
-先找一个位置存放项目文件，我选择的是G盘，输入`G:`,输入`md umi-project`在G盘里新建文件夹用于存放项目文件umi依赖文件，umi-project为文件夹名称，可以取其他名字，并输入`cd umi-project`进入文件夹，然后输入`npm init -y`初始化项目,成功之后会多一个package.json的文件，最后输入`npm install umi@2 -D`安装umi 2.x版本的依赖(推荐使用国内淘宝镜像cnpm安装，因为npm有的文件包需要梯子),如下图：![QQ截图20200718120809](C:\Users\HP\Pictures\umi笔记\QQ截图20200718120809.png)
+先找一个位置存放项目文件，我选择的是G盘，输入`G:`,输入`md umi-project`在G盘里新建文件夹用于存放项目文件umi依赖文件，umi-project为文件夹名称，可以取其他名字，并输入`cd umi-project`进入文件夹，然后输入`npm init -y`初始化项目,成功之后会多一个package.json的文件，最后输入`npm install umi@2 -D`安装umi 2.x版本的依赖(推荐使用国内淘宝镜像cnpm安装，因为npm有的文件包需要梯子),如下图：![QQ截图20200718120809](https://raw.githubusercontent.com/pany666/images/master/umi-project_images/QQ%E6%88%AA%E5%9B%BE20200718114929.png)
 
 ### 3.安装umi-plugin-react插件
 
